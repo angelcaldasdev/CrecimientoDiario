@@ -8,6 +8,17 @@
    ========================================================== */
 const listaDeArticulos = [
   {
+    titulo: "Perseverar es seguir avanzando, aunque sea despacio",
+    categoria: "Perseverancia",
+    fecha: "2026-11-15",
+    resumen: "Los resultados grandes casi nunca llegan rápido. Aprende a seguir cuando el avance parece invisible.",
+    contenido: [
+      "Casi toda meta que vale la pena tiene una etapa incómoda: ya no tienes la emoción del comienzo y todavía no ves resultados. Es el momento en que muchos abandonan, no porque hayan fracasado, sino porque el avance se volvió invisible.",
+      "Perseverar no significa avanzar rápido ni sentirte motivado todos los días. Significa seguir presente cuando el camino se hace largo. El músico que practica veinte minutos diarios, el estudiante que repasa por tercera vez un tema difícil y la persona que vuelve a intentarlo después de un tropiezo están haciendo lo mismo: negarse a soltar lo que les importa.",
+      "Para sostenerte, mide tu progreso por lo que haces y no solo por lo que logras: cuántos días practicaste, cuántas páginas leíste, cuántas veces volviste a empezar. Cuando llegue el cansancio, descansa, pero no abandones. Si algo no funciona, cambia el método, no la meta. Y recuerda por qué empezaste: una razón clara pesa más que cualquier ganas pasajera."
+    ]
+  },
+  {
     titulo: "Por qué empezar pequeño cambia todo",
     categoria: "Hábitos",
     fecha: "2026-11-09",
@@ -41,7 +52,7 @@ const listaDeArticulos = [
     ]
   },
 
-  /* ---------- NUEVOS: disciplina, hábitos, constancia y trabajo duro ---------- */
+  /* ---------- disciplina, hábitos, constancia y trabajo duro ---------- */
   {
     titulo: "La disciplina no es castigo, es cumplirte una promesa",
     categoria: "Disciplina",
